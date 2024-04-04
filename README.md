@@ -114,7 +114,7 @@
 
 ### Решение 5 
 ![Ok](/img/5.png) 
-![Promlem](/img/5_1.png) 
+![Promlem](/img/5_2.png) 
 
 
 
